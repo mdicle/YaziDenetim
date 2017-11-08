@@ -1,2 +1,2 @@
-# YaziDenetim
-Türkçe dili yazım denetim uygulamasıdır
+# Türkçe dili yazım denetim uygulamasıdır
+### Delphi
