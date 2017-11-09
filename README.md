@@ -5,5 +5,7 @@ TSD uygulaması ile Türkçe yazıları analiz edebilir, dahası yazı içeirsin
 
 ![TSD Türkçe dili denetim uygulaması](https://raw.githubusercontent.com/mdicle/YaziDenetim/master/Screenshots/ss01.png)
 
+![Setup dosyasını indirmek için tıklayın...](https://github.com/mdicle/YaziDenetim/raw/master/Setup/tsd_setup.exe)
+
 Bu uygulama Delphi 10.2 Tokyo ile yazılmıştır...
 
