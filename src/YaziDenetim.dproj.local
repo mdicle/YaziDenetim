@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.241,C:\Users\w7\Documents\Embarcadero\Studio\Projects\YaziDenetim\main.dfm=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.993,=C:\Users\w7\Documents\Embarcadero\Studio\Projects\YaziDenetim\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.878,=C:\Users\w7\Documents\Embarcadero\Studio\Projects\YaziDenetim\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.767,C:\Users\w7\Documents\Embarcadero\Studio\Projects\YaziDenetim\uTools.pas=C:\Users\w7\Documents\Embarcadero\Studio\Projects\YaziDenetim\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.817,=C:\Users\w7\Documents\Embarcadero\Studio\Projects\YaziDenetim\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.811,=C:\Users\w7\Documents\Embarcadero\Studio\Projects\YaziDenetim\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.241,C:\Users\w7\Documents\Embarcadero\Studio\Projects\YaziDenetim\main.pas=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.141,C:\Users\w7\Documents\Embarcadero\Studio\Projects\YaziDenetim\uTSD.pas=C:\Users\w7\Documents\Embarcadero\Studio\Projects\YaziDenetim\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.178,C:\Users\w7\Documents\Embarcadero\Studio\Projects\YaziDenetim\uOneriBagla.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.752,C:\Users\w7\Documents\Embarcadero\Studio\Projects\YaziDenetim\uOneriBagla.pas=C:\Users\w7\Documents\Embarcadero\Studio\Projects\YaziDenetim\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.775,C:\Users\w7\Documents\Embarcadero\Studio\Projects\YaziDenetim\YaziDenetim.dproj=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.752,C:\Users\w7\Documents\Embarcadero\Studio\Projects\YaziDenetim\uOneriBagla.dfm=C:\Users\w7\Documents\Embarcadero\Studio\Projects\YaziDenetim\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.895,C:\Users\w7\Documents\Embarcadero\Studio\Projects\YaziDenetim\uOneri.dfm=C:\Users\w7\Documents\Embarcadero\Studio\Projects\YaziDenetim\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.993,=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.895,C:\Users\w7\Documents\Embarcadero\Studio\Projects\YaziDenetim\uOneri.pas=C:\Users\w7\Documents\Embarcadero\Studio\Projects\YaziDenetim\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

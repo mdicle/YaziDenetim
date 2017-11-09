@@ -1,0 +1,12 @@
+Copyright 2017 M. Murat Dicle (mdicle@gmail.com)
+
+Apache Lisansý, Sürüm 2.0 (iþbu “Lisans”) ile lisanslanan
+bu dosyayý, iþbu lisansla uyumlu olan durumlar dýþýnda kullanamazsýnýz.
+Lisansýn bir kopyasýný
+        http://www.apache.org/licenses/LICENSE-2.0
+adresinden temin edebilirsiniz.
+Yürürlükteki bir yasada belirtilmediði veya yazýlý olarak
+beyan edilmediði sürece, iþbu lisans altýnda daðýtýlan
+yazýlým “hiçbir deðiþiklik yapýlmadan” esasýyla daðýtýlmýþ
+olup, açýkça veya üstü kapalý olarak, HÝÇBÝR TEMÝNAT VEYA
+KOÞUL ÝÇERMEZ. Özel dil uygulama izinleri ve iþbu lisans altýndaki kýsýtlamalar için lisansa bakýnýz.
