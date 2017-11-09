@@ -1,12 +1,17 @@
 #### Delphi 
-# Türkçe dili yazım denetim uygulamasıdır
-![Setup dosyasını indirmek için tıklayın](https://github.com/mdicle/YaziDenetim/raw/master/Setup/tsd_setup.exe)
+# Türkçe dili sözcük denetim uygulamasıdır
+* ![Setup dosyasını indirmek için tıklayın](https://github.com/mdicle/YaziDenetim/raw/master/Setup/tsd_setup.exe)
+* ![Ekran görüntüleri Screenshots](https://github.com/mdicle/YaziDenetim/wiki/Ekran-görüntüleri-Screenshots)
 
-![Ekran görüntüleri Screenshots](https://github.com/mdicle/YaziDenetim/wiki/Ekran-görüntüleri-Screenshots)
-## Bu uygulama ne işe yarar?
-TSD uygulaması ile Türkçe yazıları analiz edebilir, dahası yazı içeirsinde kullandığınız sözcüklerin kullanım adetlerini vb. bilgileri görebilirsiniz. Bu uygulama ayrıca sözcüklerin Türkçe kök sözcük olup olmadığını, dahası sözcüklerde Büyük Ünlü Uyumu olup olmadığı bilgisini size verir. 50.000 sözcükten oluşan bir yazıyı 8 saniye içerisinde analiz edebilmektedir.
+### Size neleri vaat ediyor
+* Yazı içinde toplam kaç kelime kullanılmış
+* Yazıdaki paragraf sayısı
+* Yazıdaki tümce sayısı
+* Kaç karakter kullanılmış (boşluklar dahil)
+* Sözcük türü bakımından kaç tür sözcük kullanılmış (sözcük dağarcığınız)
+
+50.000 sözcükten oluşan bir yazıyı 9 saniye içerisinde analiz edebilmektedir.
 
 ![TSD Türkçe dili denetim uygulaması](https://raw.githubusercontent.com/mdicle/YaziDenetim/master/Screenshots/ss01.png)
-
-Bu uygulama Delphi 10.2 Tokyo ile yazılmıştır...
+#### Bu uygulama Delphi 10.2 Tokyo ile yazılmıştır...
 
