@@ -24,6 +24,10 @@ Hayalimdeki uygulama şimdilik fantastik bir düşünceden öteye geçmiyor. Teo
 * Bir öneri sözcüğünü yazı içerisinde (word belgesi içinden) bulup değiştirecek. (sıkıntı tembellikte)
 * Yazı içerisindeki mantık hatalarını tespit edecek. Bir sayfada, ben karlı bir kış gününde doğdum, yazdınız diyelim. On-on beş sayfa sonra da, Annemin demesine göre doğduğum gün babam bahçede dut topluyormuş. Şimdi burada bir mantık hatası var, değil mi? Düşünsenize, bunu size ŞAK diye gösterebilen bir uygulama olduğunu.
 * Sözcüklerin (bir insan gibi) gerçek köklerini tespit edecek. Kökteş sözcüklerin tümce içerrisinde doğru kullanılıp kullanılmadığına bakılacak. KOYUN sözcüğünü tek başına ele alırsak biz bile bu sözcüğün kökünü bulamayız. Şimdi bile siz bunu okuduğunuzda dahi gerçek kökünün ne olduğunu bilmiyorsunuz. Şöyle deseydim: "Lütfen tabağı masaya koyun." Bizler tümcenin fiiline, zarfına, yüklemine, vs. vs. özelliklerine bakarak yorumluyoruz. Az öneki tümcedeki KOYUN sözcüğünün kökünü şimdi çıkartabiliriz: KOY-MAK... "Şu karşıdan gelen bir koyun mu?" tümcesindeki KOYUN bir isim. KOY (fiil) köküyle alakası yok değil mi? "Bizim koyun en güzel yanı doğasıdır." Peki bu tümcedeki KOYUN sözcüğü? Elbette KOY (isim)... Bu denli detaylara inebilen bir uygulama düşünüyorum. :)
+* Tümcenin öğelerini titizlikte çıkatan uygulama sayesinde, tümceyi başka dillere çevirmek çok çok daha kolay olacaktır.
+
+### Neden ilerleyemiyoruz?
+Çünkü, "böyle aptal saptal işlerle uğraşacağına git bir sigortalı işe gir, para kazan!", sözlerine maruz kaldığımızdan ilerleyemiyoruz. :)) Düşünen insanlara değer verilmeyen bir ülkede yaşıyoruz. Ne ki aç karnına da düşünülmüyor. Hem düşüneyim, hem para kazanayım... İnanın, bu çok çok zor!
 
 ![TSD Türkçe dili denetim uygulaması](https://raw.githubusercontent.com/mdicle/YaziDenetim/master/Screenshots/ss01.png)
 #### Bu uygulama Delphi 10.2 Tokyo ile yazılmıştır...
